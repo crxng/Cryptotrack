@@ -1,2 +1,2 @@
 # Cryptotrack
- track currency of cryptocurrencies
+ track value of cryptocurrencies
